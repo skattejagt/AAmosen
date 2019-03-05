@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Sten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.137864828109741,
+          55.652840406114066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Flagstang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.138358354568481,
+          55.6533821701789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Gynger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.13838517665863,
+          55.65292817845469
+        ]
+      }
+    }
+  ]
+}
