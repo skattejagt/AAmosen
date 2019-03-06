@@ -39,6 +39,19 @@
           55.65292817845469
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "navn": "Test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.141322195529938,
+          55.653264132837045
+        ]
+      }
     }
   ]
 }
