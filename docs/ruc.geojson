@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "navn": "Sten"
+        "navn": "Sten",
+        "Lydfil": 0
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "navn": "Flagstang"
+        "navn": "Flagstang",
+        "Lydfil": 1
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "navn": "Gynger"
+        "navn": "Gynger",
+        "Lydfil": 2
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +46,8 @@
     {
       "type": "Feature",
       "properties": {
-        "navn": "Test"
+        "navn": "Test",
+        "Lydfil": 3
       },
       "geometry": {
         "type": "Point",
