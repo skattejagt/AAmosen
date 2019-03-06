@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "navn": "Sten"
+        "navn": "sten"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +17,7 @@
     {
       "type": "Feature",
       "properties": {
-        "navn": "Flagstang"
+        "navn": "flagstang"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +30,7 @@
     {
       "type": "Feature",
       "properties": {
-        "navn": "Gynger"
+        "navn": "gynger"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +43,7 @@
     {
       "type": "Feature",
       "properties": {
-        "navn": "Test"
+        "navn": "test"
       },
       "geometry": {
         "type": "Point",
