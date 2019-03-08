@@ -7,5 +7,5 @@ https://editor.p5js.org/Stigafp/sketches/t_zmRteMQ
 
 
 samlet kode fredag 8. marts
-https://editor.p5js.org/Stigafp/sketches/Hq686s-7n
+https://editor.p5js.org/Totalhugo/sketches/xKV6PSD1j
 
